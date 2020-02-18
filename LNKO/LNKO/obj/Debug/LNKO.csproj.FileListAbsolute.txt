@@ -1,0 +1,14 @@
+C:\Users\Soma\Documents\C#2\LNKO\LNKO\bin\Debug\LNKO.exe.config
+C:\Users\Soma\Documents\C#2\LNKO\LNKO\bin\Debug\LNKO.exe
+C:\Users\Soma\Documents\C#2\LNKO\LNKO\bin\Debug\LNKO.pdb
+C:\Users\Soma\Documents\C#2\LNKO\LNKO\obj\Debug\LNKO.csprojAssemblyReference.cache
+C:\Users\Soma\Documents\C#2\LNKO\LNKO\obj\Debug\LNKO.csproj.CoreCompileInputs.cache
+C:\Users\Soma\Documents\C#2\LNKO\LNKO\obj\Debug\LNKO.exe
+C:\Users\Soma\Documents\C#2\LNKO\LNKO\obj\Debug\LNKO.pdb
+E:\C#2\LNKO\LNKO\bin\Debug\LNKO.exe.config
+E:\C#2\LNKO\LNKO\bin\Debug\LNKO.exe
+E:\C#2\LNKO\LNKO\bin\Debug\LNKO.pdb
+E:\C#2\LNKO\LNKO\obj\Debug\LNKO.csprojAssemblyReference.cache
+E:\C#2\LNKO\LNKO\obj\Debug\LNKO.csproj.CoreCompileInputs.cache
+E:\C#2\LNKO\LNKO\obj\Debug\LNKO.exe
+E:\C#2\LNKO\LNKO\obj\Debug\LNKO.pdb
